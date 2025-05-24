@@ -1,0 +1,16 @@
+2025-04-09 16:42:06.902 [ main ] - [ INFO  ] [ com.gk.study.MySpringApplication : 55 ] - Starting MySpringApplication using Java 11.0.26 on 杨健豪的mate with PID 30288 (D:\iCloud文稿\iCloudDrive\Documents\项目\类抖音uniAPP\【源码】基于SpringBoot视频点播系统 - 副本\server\target\classes started by curry in D:\iCloud文稿\iCloudDrive\Documents\项目\类抖音uniAPP\【源码】基于SpringBoot视频点播系统 - 副本)
+2025-04-09 16:42:06.911 [ main ] - [ INFO  ] [ com.gk.study.MySpringApplication : 659 ] - No active profile set, falling back to default profiles: default
+2025-04-09 16:42:10.563 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-9100"]
+2025-04-09 16:42:10.564 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2025-04-09 16:42:10.564 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.53]
+2025-04-09 16:42:10.719 [ main ] - [ INFO  ] [ o.a.c.c.ContainerBase.[Tomcat].[localhost].[/api] : 173 ] - Initializing Spring embedded WebApplicationContext
+2025-04-09 16:42:11.041 [ main ] - [ INFO  ] [ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] - Init DruidDataSource
+2025-04-09 16:42:12.494 [ main ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 975 ] - {dataSource-1} inited
+2025-04-09 16:42:13.051 [ main ] - [ WARN  ] [ c.b.mybatisplus.core.metadata.TableInfoHelper : 342 ] - Can not find table primary key in Class: "java.lang.Object".
+2025-04-09 16:42:13.051 [ main ] - [ WARN  ] [ c.b.mybatisplus.core.injector.DefaultSqlInjector : 56 ] - class java.lang.Object ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2025-04-09 16:42:16.781 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-9100"]
+2025-04-09 16:42:18.274 [ main ] - [ INFO  ] [ com.gk.study.MySpringApplication : 61 ] - Started MySpringApplication in 12.569 seconds (JVM running for 13.723)
+2025-04-09 16:42:51.263 [ http-nio-9100-exec-1 ] - [ INFO  ] [ o.a.c.c.ContainerBase.[Tomcat].[localhost].[/api] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-04-09 16:45:15.909 [ http-nio-9100-exec-9 ] - [ WARN  ] [ org.apache.catalina.connector.Request : 173 ] - Creating the temporary upload location [D:\aliyun_workspace\java_video\server\upload\tmp] as it is required by the servlet [dispatcherServlet]
+2025-04-09 21:38:14.930 [ SpringApplicationShutdownHook ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 2063 ] - {dataSource-1} closing ...
+2025-04-09 21:38:14.981 [ SpringApplicationShutdownHook ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 2136 ] - {dataSource-1} closed
